@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ZombieClicker</string>
+    <string name="logoName">Zombie</string>
+    <string name="logoName2">Clicker</string>
+    <string name="inputYourNickname">Введите ваш никнейм!</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Злой гений!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_shop">Магазин</string>
+    <string name="menu_statistic">Статистика</string>
+    <string name="menu_main">Главное</string>
+
+    <string name="zombie">Зомби</string>
+    <string name="research">Ученые</string>
+    
+    <string name="price">Стоимость</string>
+    <string name="effect">Эффект</string>
+    <string name="minusDescription">То что уходит</string>
+    <string name="plusDescription">То что приходит</string>
+
+    <string name="statisticText">Статистика:</string>
+    <string name="researchIncome">Прирост ученых: </string>
+    <string name="zombieIncome">Прирост зомби: </string>
+</resources>
